@@ -1,0 +1,6 @@
+C:\Users\dylan\source\repos\Komodo\ClaimsPOCO\bin\Debug\ClaimsPOCO.dll
+C:\Users\dylan\source\repos\Komodo\ClaimsPOCO\bin\Debug\ClaimsPOCO.pdb
+C:\Users\dylan\source\repos\Komodo\ClaimsPOCO\obj\Debug\ClaimsPOCO.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Komodo\ClaimsPOCO\obj\Debug\ClaimsPOCO.dll
+C:\Users\dylan\source\repos\Komodo\ClaimsPOCO\obj\Debug\ClaimsPOCO.pdb
+C:\Users\dylan\source\repos\Komodo\ClaimsPOCO\obj\Debug\ClaimsPOCO.csproj.AssemblyReference.cache

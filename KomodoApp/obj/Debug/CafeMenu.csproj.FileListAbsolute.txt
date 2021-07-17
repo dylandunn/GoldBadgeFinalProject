@@ -1,0 +1,12 @@
+C:\Users\dylan\source\repos\Komodo\KomodoApp\obj\Debug\CafeMenu.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\Komodo\KomodoApp\obj\Debug\CafeMenu.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Komodo\KomodoApp\bin\Debug\KomodoApp.exe.config
+C:\Users\dylan\source\repos\Komodo\KomodoApp\bin\Debug\KomodoApp.exe
+C:\Users\dylan\source\repos\Komodo\KomodoApp\bin\Debug\KomodoApp.pdb
+C:\Users\dylan\source\repos\Komodo\KomodoApp\bin\Debug\CafeMenuPOCOS.dll
+C:\Users\dylan\source\repos\Komodo\KomodoApp\bin\Debug\CafeMenuRepo.dll
+C:\Users\dylan\source\repos\Komodo\KomodoApp\bin\Debug\CafeMenuPOCOS.pdb
+C:\Users\dylan\source\repos\Komodo\KomodoApp\bin\Debug\CafeMenuRepo.pdb
+C:\Users\dylan\source\repos\Komodo\KomodoApp\obj\Debug\CafeMenu.csproj.CopyComplete
+C:\Users\dylan\source\repos\Komodo\KomodoApp\obj\Debug\KomodoApp.exe
+C:\Users\dylan\source\repos\Komodo\KomodoApp\obj\Debug\KomodoApp.pdb

@@ -1,0 +1,12 @@
+C:\Users\dylan\source\repos\Komodo\Claims\bin\Debug\Claims.exe.config
+C:\Users\dylan\source\repos\Komodo\Claims\bin\Debug\Claims.exe
+C:\Users\dylan\source\repos\Komodo\Claims\bin\Debug\Claims.pdb
+C:\Users\dylan\source\repos\Komodo\Claims\bin\Debug\ClaimsPOCO.dll
+C:\Users\dylan\source\repos\Komodo\Claims\bin\Debug\ClaimsRepo.dll
+C:\Users\dylan\source\repos\Komodo\Claims\bin\Debug\ClaimsPOCO.pdb
+C:\Users\dylan\source\repos\Komodo\Claims\bin\Debug\ClaimsRepo.pdb
+C:\Users\dylan\source\repos\Komodo\Claims\obj\Debug\Claims.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\Komodo\Claims\obj\Debug\Claims.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Komodo\Claims\obj\Debug\Claims.csproj.CopyComplete
+C:\Users\dylan\source\repos\Komodo\Claims\obj\Debug\Claims.exe
+C:\Users\dylan\source\repos\Komodo\Claims\obj\Debug\Claims.pdb

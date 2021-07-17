@@ -1,0 +1,6 @@
+C:\Users\dylan\source\repos\Komodo\CafeMenuPOCOS\obj\Debug\CafeMenuPOCO.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\Komodo\CafeMenuPOCOS\obj\Debug\CafeMenuPOCO.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Komodo\CafeMenuPOCOS\bin\Debug\CafeMenuPOCOS.dll
+C:\Users\dylan\source\repos\Komodo\CafeMenuPOCOS\bin\Debug\CafeMenuPOCOS.pdb
+C:\Users\dylan\source\repos\Komodo\CafeMenuPOCOS\obj\Debug\CafeMenuPOCOS.dll
+C:\Users\dylan\source\repos\Komodo\CafeMenuPOCOS\obj\Debug\CafeMenuPOCOS.pdb

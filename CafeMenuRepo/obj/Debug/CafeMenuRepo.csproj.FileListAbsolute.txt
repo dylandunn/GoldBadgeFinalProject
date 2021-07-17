@@ -1,0 +1,9 @@
+C:\Users\dylan\source\repos\Komodo\CafeMenuRepo\obj\Debug\CafeMenuRepo.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Komodo\CafeMenuRepo\bin\Debug\CafeMenuRepo.dll
+C:\Users\dylan\source\repos\Komodo\CafeMenuRepo\bin\Debug\CafeMenuRepo.pdb
+C:\Users\dylan\source\repos\Komodo\CafeMenuRepo\bin\Debug\CafeMenuPOCOS.dll
+C:\Users\dylan\source\repos\Komodo\CafeMenuRepo\bin\Debug\CafeMenuPOCOS.pdb
+C:\Users\dylan\source\repos\Komodo\CafeMenuRepo\obj\Debug\CafeMenuRepo.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\Komodo\CafeMenuRepo\obj\Debug\CafeMenuRepo.csproj.CopyComplete
+C:\Users\dylan\source\repos\Komodo\CafeMenuRepo\obj\Debug\CafeMenuRepo.dll
+C:\Users\dylan\source\repos\Komodo\CafeMenuRepo\obj\Debug\CafeMenuRepo.pdb

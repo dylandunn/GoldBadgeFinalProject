@@ -1,0 +1,6 @@
+C:\Users\dylan\source\repos\Komodo\BadgesPOCO\bin\Debug\BadgesPOCO.dll
+C:\Users\dylan\source\repos\Komodo\BadgesPOCO\bin\Debug\BadgesPOCO.pdb
+C:\Users\dylan\source\repos\Komodo\BadgesPOCO\obj\Debug\BadgesPOCO.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\Komodo\BadgesPOCO\obj\Debug\BadgesPOCO.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\Komodo\BadgesPOCO\obj\Debug\BadgesPOCO.dll
+C:\Users\dylan\source\repos\Komodo\BadgesPOCO\obj\Debug\BadgesPOCO.pdb
